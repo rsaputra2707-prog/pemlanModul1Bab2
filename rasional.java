@@ -9,7 +9,7 @@ public class rasional {
         penyebut = pyb;
     }
     public boolean isRasional(){
-        return (penyebut != 1);
+        return (penyebut != 0);
     }
     public void sederhana(){
         int temp, a, b;
